@@ -1,9 +1,3 @@
-pip freeze > requirements.txt
-flask==3.0.0
-opencv-python==4.8.0.76
-tensorflow==2.15.0
-streamlit==1.29.0
-numpy==1.26.0
-pillow==10.0.1
-python-dotenv==1.0.0
-gunicorn==21.2.0  # For deployment
+Flask
+opencv-python
+
